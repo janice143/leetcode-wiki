@@ -58,12 +58,13 @@ export default defineConfig({
               { text: '20 并查集', link: '/leetcode-concepts/union-find' },
               { text: '21 堆', link: '/leetcode-concepts/heap' },
               { text: '22 数学技巧', link: '/leetcode-concepts/math' },
-              { text: '23 位运算', link: '/leetcode-concepts/bit' }
+              { text: '23 位运算', link: '/leetcode-concepts/bit' },
+              { text: '24 N 皇后问题', link: '/leetcode-concepts/n-queen' }
             ]
           },
           {
             text: 'JavaScript 33个概念',
-            items: [{ text: '33个概念', link: '/js-33/index.md' }]
+            items: [{ text: '33个概念', link: '/js-33/index' }]
           }
         ]
       }
